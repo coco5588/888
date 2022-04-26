@@ -64,7 +64,7 @@ window.setInterval("heartBeat()",1);
 <div class="daohang">
 <div class="daohang_t">
 <h2>最新自动导航地址</h2>
-  <h2>=============================</h2>
+  <h2>=======================</h2>
 <ul>
 
 
