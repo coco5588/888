@@ -86,6 +86,5 @@ window.setInterval("heartBeat()",1);
 
 
 </div>
-<div class="foot">如果以上地址均无法打开，欢迎发送邮件告知：semimi888@gmail.com<br>
-                        会自动回复最新地址！</div>
+<div class="foot"><br></div>
 
