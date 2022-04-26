@@ -67,17 +67,7 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_t">
 <h2>最新自动导航地址</h2>
 <ul>
-<li>维娃导航</li><li><a href="http://vadh.vip" target="_blank">http://vadh.vip</a></li>
-<li>天平导航</li><li><a href="http://tpdh.vip" target="_blank">http://tpdh.vip</a></li>
-<li>埃及导航</li><li><a href="http://ijdh.vip" target="_blank">http://ijdh.vip</a></li>
-<li>醋味导航</li><li><a href="http://cvdh.vip" target="_blank">http://cvdh.vip</a></li>
-<li>炮灰导航</li><li><a href="http://pvdh.vip" target="_blank">http://pvdh.vip</a></li>
-<li>肉串导航</li><li><a href="http://rcdh.vip" target="_blank">http://rcdh.vip</a></li>
-<li>羽毛导航</li><li><a href="http://umdh.vip" target="_blank">http://umdh.vip</a></li>
-<li>桃子导航</li><li><a href="http://tzdh.vip" target="_blank">http://tzdh.vip</a></li>
-<li>菇凉导航</li><li><a href="http://gldh.vip" target="_blank">http://gldh.vip</a></li>
-<li>庞贝导航</li><li><a href="http://pbdh.vip" target="_blank">http://pbdh.vip</a></li>
-</ul>
+
 </div>
 
 <div class="daohang_r">
