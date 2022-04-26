@@ -67,8 +67,10 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_t">
 <h2>最新自动导航地址</h2>
 <ul>
+</br>
+</br>
+</br>
 
-</div>
 
 <div class="daohang_r">
 <h2>最新自动导航地址</h2>
@@ -85,6 +87,9 @@ window.setInterval("heartBeat()",1);
 <li class="red">一笔导航</li><li><a href="http://ebdh.vip" target="_blank">http://ebdh.vip</a></li>
 </ul>
 </div>
+</br>
+</br>
+</br>
 </div>
 <div class="foot">如果以上地址均无法打开，欢迎发送邮件告知：semimi888@gmail.com<br>
                         会自动回复最新地址！</div>
