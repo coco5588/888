@@ -72,16 +72,16 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_r">
 <h2>保存本页，永不迷路！</h2>
 <ul>
-<li class="red">女王导航</li><li><a href="http://nvwdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">狐狸导航</li><li><a href="http://huldh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">双鱼导航</li><li><a href="http://shuangydh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">桃子导航</li><li><a href="taozdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">婉约导航</li><li><a href="http://wuanydh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">娇妻导航</li><li><a href="http://jiaoqdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">猫猫导航</li><li><a href="http://maomdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">迷兔导航</li><li><a href="http://mitdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">苹果导航</li><li><a href="http://pinggdh.xyz" target="_blank">=点击进入=</a></li>
-<li class="red">难耐导航</li><li><a href="http://nanndh.xyz" target="_blank">=点击进入=</a></li>
+<li class="red">女王导航</li><li><a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
+<li class="red">狐狸导航</li><li><a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
+<li class="red">双鱼导航</li><li><a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
+<li class="red">桃子导航</li><li><a href="http://taozdh.xyz" target="_blank">http://taozdh.xyz</a></li>
+<li class="red">婉约导航</li><li><a href="http://wuanydh.xyz" target="_blank">http://wuanydh.xyz</a></li>
+<li class="red">娇妻导航</li><li><a href="http://jiaoqdh.xyz" target="_blank">http://jiaoqdh.xyz</a></li>
+<li class="red">猫猫导航</li><li><a href="http://maomdh.xyz" target="_blank">http://maomdh.xyz</a></li>
+<li class="red">迷兔导航</li><li><a href="http://mitdh.xyz" target="_blank">http://mitdh.xyz</a></li>
+<li class="red">苹果导航</li><li><a href="http://pinggdh.xyz" target="_blank">http://pinggdh.xyz</a></li>
+<li class="red">难耐导航</li><li><a href="http://nanndh.xyz" target="_blank">http://nanndh.xyz</a></li>
 </ul>
 
 
