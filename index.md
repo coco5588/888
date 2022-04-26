@@ -72,7 +72,7 @@ window.setInterval("heartBeat()",1);
 
 
 <div class="daohang_r">
-<h2>最新自动导航地址</h2>
+<h2>保存本页，永不迷路！</h2>
 <ul>
 <li class="red">小鱼导航</li><li><a href="http://xiaoyudh.vip" target="_blank">http://xiaoyudh.vip</a></li>
 <li class="red">糖果导航</li><li><a href="http://tgdh.vip" target="_blank">http://tgdh.vip</a></li>
