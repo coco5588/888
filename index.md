@@ -72,7 +72,7 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_r">
 <h2>保存本页，永不迷路！</h2>
 <ul>
-<li class="red">小鱼导航</li><li><a href="http://xiaoyudh.vip" target="_blank">http://xiaoyudh.vip</a></li>
+<li class="red">女王导航</li><li><a href="www.nvwdh.xyz" target="_blank">=立即进入=</a></li>
 <li class="red">糖果导航</li><li><a href="http://tgdh.vip" target="_blank">http://tgdh.vip</a></li>
 <li class="red">热水导航</li><li><a href="http://rsdh.vip" target="_blank">http://rsdh.vip</a></li>
 <li class="red">幽碧导航</li><li><a href="http://ybdh.vip" target="_blank">http://ybdh.vip</a></li>
