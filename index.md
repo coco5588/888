@@ -1,9 +1,8 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>最新地址发布页</title>
 <style type="text/css">
-html,body { padding: 0;margin: 0; background: #272727;font: 400 16px/1.7 "Microsoft JhengHei", sans-serif;}
+html,body { padding: 0;margin: 0; background: #FFFFFF;font: 400 16px/1.7 "Microsoft JhengHei", sans-serif;}
 div,ul,li,h1,p,h2{padding: 0;margin: 0;}
 ul,li{list-style: none;}
 .main{text-align: center;}
