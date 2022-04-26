@@ -50,8 +50,7 @@ document.getElementById("lovexin14").style.top=parseInt(document.getElementById
 lastScrollY=lastScrollY+percent; 
 //alert(lastScrollY);
 }
-suspendcode12="<DIV id=\"lovexin12\" style='left:2px;POSITION:absolute;TOP:400px; display:none;'><a href='https://semimiapp.github.io/dh/sewa.apk' onClick='return confirm(\"苹果APP正在开发中，确定是安卓用户？\");'><img src='sewa.gif' class='aimg'></a></div>"
-suspendcode14="<DIV id=\"lovexin14\" style='right:2px;POSITION:absolute;TOP:500px;'><a href='https://semimiapp.github.io/dh/sewa.apk' onClick='return confirm(\"苹果APP正在开发中，确定是安卓用户？\");'><img src='sewa.gif' class='aimg'></a></div>"
+
 document.write(suspendcode12); 
 document.write(suspendcode14); 
 window.setInterval("heartBeat()",1);
