@@ -1,6 +1,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>最新地址发布页</title>
+<title>好站导航发布页</title>
 <style type="text/css">
 html,body { padding: 0;margin: 0; background: #E0E0E0;font: 400 16px/1.7 "Microsoft JhengHei", sans-serif;}
 div,ul,li,h1,p,h2{padding: 0;margin: 0;}
@@ -60,10 +60,10 @@ window.setInterval("heartBeat()",1);
 <body>
 <div class="main">
 <div class="content">
-<div class="title"> 地址发布页 | 欢迎大家 Ctrl+D 收藏本页</div>
+<div class="title"> 最新地址发布页 | 欢迎大家 Ctrl+D 收藏本页</div>
 <div class="daohang">
 <div class="daohang_t">
-<h2>最新自动导航地址</h2>
+<h2>最新好站导航地址</h2>
   <h2>=======================</h2>
 <ul>
 
@@ -72,16 +72,9 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_r">
 <h2>保存本页，永不迷路！</h2>
 <ul>
-<li class="red">女王导航</li><li><a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
-<li class="red">狐狸导航</li><li><a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
-<li class="red">双鱼导航</li><li><a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
-<li class="red">桃子导航</li><li><a href="http://taozdh.xyz" target="_blank">http://taozdh.xyz</a></li>
-<li class="red">婉约导航</li><li><a href="http://wuanydh.xyz" target="_blank">http://wuanydh.xyz</a></li>
-<li class="red">娇妻导航</li><li><a href="http://jiaoqdh.xyz" target="_blank">http://jiaoqdh.xyz</a></li>
-<li class="red">猫猫导航</li><li><a href="http://maomdh.xyz" target="_blank">http://maomdh.xyz</a></li>
-<li class="red">迷兔导航</li><li><a href="http://mitdh.xyz" target="_blank">http://mitdh.xyz</a></li>
-<li class="red">苹果导航</li><li><a href="http://pinggdh.xyz" target="_blank">http://pinggdh.xyz</a></li>
-<li class="red">难耐导航</li><li><a href="http://nanndh.xyz" target="_blank">http://nanndh.xyz</a></li>
+<li class="red">备用地址A</li><li><a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
+<li class="red">备用地址B</li><li><a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
+<li class="red">备用地址C</li><li><a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
 </ul>
 
 
