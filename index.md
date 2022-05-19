@@ -2,7 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>好站导航发布页</title>
 <style type="text/css">
-html,body { padding: 0;margin: 0; background: #E0E0E0;font: 400 16px/1.7 "Microsoft JhengHei", sans-serif;}
+html,body { padding: 0;margin: 0; background: #E0E0E0;font: 400 20px/1.7 "Microsoft JhengHei", sans-serif;}
 div,ul,li,h1,p,h2{padding: 0;margin: 0;}
 ul,li{list-style: none;}
 .main{text-align: center;}
