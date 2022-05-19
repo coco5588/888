@@ -72,9 +72,9 @@ window.setInterval("heartBeat()",1);
 <div class="daohang_r">
 <h2>保存本页，永不迷路！</h2>
 <ul>
-<li class="red">备用地址A<a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
-<li class="red">备用地址B</li><li><a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
-<li class="red">备用地址C</li><li><a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
+<li class="red">备用地址A   <a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
+<li class="red">备用地址B   <a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
+<li class="red">备用地址C   <a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
 </ul>
 
 
