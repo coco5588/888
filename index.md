@@ -1,83 +1,37 @@
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>好站导航发布页</title>
-<style type="text/css">
-html,body { padding: 0;margin: 0; background: #E0E0E0;font: 400 20px/1.7 "Microsoft JhengHei", sans-serif;}
-div,ul,li,h1,p,h2{padding: 0;margin: 0;}
-ul,li{list-style: none;}
-.main{text-align: center;}
-.content{ margin:0 auto; width:90%;}
-.red{ color:#F00;}
-#lovexin12,#lovexin14{border:2px solid red;z-index:9999;
-}
-@media only screen and (min-width:0px) and (max-width:1120px){
-#lovexin12 img,#lovexin14 img{width:200px;}
-}
-}
 
-</style>
-<script>
-function loadCSS() {
-if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|wOSBrowser|BrowserNG|WebOS)/i))) {
-document.write('<link href="phone.css" rel="stylesheet" type="text/css" media="screen" />');
-//alert("shouji");
-}
-else {
-//alert("diannao");
-document.write('<link href="pc.css" rel="stylesheet" type="text/css" media="screen" />');
-}
-}
-loadCSS();
-  
-lastScrollY=0;
-function heartBeat(){ 
-var diffY;
-if (document.documentElement && document.documentElement.scrollTop)
-diffY = document.documentElement.scrollTop;
-else if (document.body)
-diffY = document.body.scrollTop
-else
-{/*Netscape stuff*/}
-//alert(diffY);
-percent=.1*(diffY-lastScrollY); 
-if(percent>0)percent=Math.ceil(percent); 
-else percent=Math.floor(percent); 
-document.getElementById("lovexin12").style.top=parseInt(document.getElementById
-("lovexin12").style.top)+percent+"px";
-document.getElementById("lovexin14").style.top=parseInt(document.getElementById
-("lovexin12").style.top)+percent+"px";
-lastScrollY=lastScrollY+percent; 
-//alert(lastScrollY);
-}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>好站导航 - 最新地址</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="富强、民主、文明、和谐、自由、平等、公正、法治、爱国、敬业、诚信、友善">
+    <style>
+        * {box-sizing:border-box;font-family:"微软雅黑";letter-spacing:2px;}
+        html,body{padding:0;margin:0}
+        .content {text-align:center}
 
-document.write(suspendcode12); 
-document.write(suspendcode14); 
-window.setInterval("heartBeat()",1);
+        a,a:link {text-decoration: none;border:2px dashed red;color:red;height:35px;line-height:35px;display: inline-block;padding:0 10px;margin:5px 0}
+        a:hover {border:2px dashed blue;color:blue;}
+        
+    @media screen and (max-device-width:480px){
+        body {padding:0 1%;}
+        .content {width:100%;}
+    }
+    </style>
+  </head>
 
-</script>
-</head>
-
-<body>
-<div class="main">
-<div class="content">
-<div class="title"> 最新地址发布页 | 欢迎大家 Ctrl+D 收藏本页</div>
-<div class="daohang">
-<div class="daohang_t">
-<h2>最新好站导航地址</h2>
-  <h2>=======================</h2>
-<ul>
+  <body>
+      <div class="content">
+        <h1>好站导航-最新地址</h1>
+        请收藏此页面到浏览器书签<br><br>
+        当前唯一地址：<br>
+        <a href="http://haozhandh01.top/">http://haozhandh01.top/</a><br><br>
+      </div>
 
 
-
-<div class="daohang_r">
-<h2>保存本页，永不迷路！</h2>
-<ul>
-<li class="red">备用地址A   <a href="http://nvwdh.xyz" target="_blank">http://nvwdh.xyz</a></li>
-<li class="red">备用地址B   <a href="http://huldh.xyz" target="_blank">http://huldh.xyz</a></li>
-<li class="red">备用地址C   <a href="http://shuangydh.xyz" target="_blank">http://shuangydh.xyz</a></li>
-</ul>
-
-
-</div>
-<div class="foot"><br></div>
-
+      <div style="display:none;">
+          <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+          <script>LA.init({id: "JesxUX4Q27HRt3RW",ck: "JesxUX4Q27HRt3RW"})</script>
+      </div>
+</html>
